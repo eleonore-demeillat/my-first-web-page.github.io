@@ -1,27 +1,28 @@
-.line-transparent {
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+.line-transparent{
+background: gold;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
-.line-light {
-  height: 5px;
-  width: 20%;
-  background: #B8860B;
-}
+.line-dark {
+    height: 10px;
+    width: 50%;
+    background: #B8860B;
+  }  
 
 .line-medium {
-  height: 5px;
-  width: 30%;
-  background: #B8860B;
+    height: 10px;
+    width: 30%;
+    background: #B8860B;
+
+}
+.line-light {
+    height: 10px;
+    width: 20%;
+    background: #B8860B;
 }
 
-.line-hard {
-  height: 5px;
-  width: 50%;
-  background: #B8860B;
-}
 
 .my-navbar {
   display: flex;
@@ -54,22 +55,13 @@ h1	{
   
 }
 
-h2{
+
+
+h2;h3;h6{
 	font-size: 20px;
 }
 
-h3{
-	font-size: 20px;
 
-}
-
-
-div{
-  background: #B8860B;
-  border-radius: 20px;
-  box-shadow: 10px 5px 5px black;
-  
-}
 
 body	{
 	background:#008080;
@@ -79,8 +71,7 @@ body	{
 	font-size: 20px;
 
 }
-
-.btn{
+.btn-pink {
 background: #B8860B;
 display:block;
 width:150px;
@@ -89,4 +80,12 @@ text-align:center;
 vertical-align:middle;
 text-decoration:none;
 }
+
+.class1{
+  background: #B8860B;
+  border-radius: 20px;
+}
+
+
+
 
